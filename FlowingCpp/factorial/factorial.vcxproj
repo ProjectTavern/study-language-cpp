@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{2D33BB9C-A7F7-435A-BEEA-A543D663C781}</ProjectGuid>
+    <ProjectGuid>{E45D88A8-A1E5-4C4B-9938-2E92E0AC7072}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>GameOver</RootNamespace>
+    <RootNamespace>factorial</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="GameOverMain.cpp" />
+    <ClCompile Include="factorial.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
