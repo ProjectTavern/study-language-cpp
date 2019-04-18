@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameOver", "GameOver\GameOv
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "factorial", "factorial\factorial.vcxproj", "{E45D88A8-A1E5-4C4B-9938-2E92E0AC7072}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimeNumber", "PrimeNumber\PrimeNumber.vcxproj", "{CBF2F32C-3E2B-417D-8436-3D4F4BDBB233}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{E45D88A8-A1E5-4C4B-9938-2E92E0AC7072}.Release|x64.Build.0 = Release|x64
 		{E45D88A8-A1E5-4C4B-9938-2E92E0AC7072}.Release|x86.ActiveCfg = Release|Win32
 		{E45D88A8-A1E5-4C4B-9938-2E92E0AC7072}.Release|x86.Build.0 = Release|Win32
+		{CBF2F32C-3E2B-417D-8436-3D4F4BDBB233}.Debug|x64.ActiveCfg = Debug|x64
+		{CBF2F32C-3E2B-417D-8436-3D4F4BDBB233}.Debug|x64.Build.0 = Debug|x64
+		{CBF2F32C-3E2B-417D-8436-3D4F4BDBB233}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBF2F32C-3E2B-417D-8436-3D4F4BDBB233}.Debug|x86.Build.0 = Debug|Win32
+		{CBF2F32C-3E2B-417D-8436-3D4F4BDBB233}.Release|x64.ActiveCfg = Release|x64
+		{CBF2F32C-3E2B-417D-8436-3D4F4BDBB233}.Release|x64.Build.0 = Release|x64
+		{CBF2F32C-3E2B-417D-8436-3D4F4BDBB233}.Release|x86.ActiveCfg = Release|Win32
+		{CBF2F32C-3E2B-417D-8436-3D4F4BDBB233}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
