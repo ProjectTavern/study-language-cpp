@@ -13,8 +13,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Roulette", "Ruoulette\Ruoul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindPixel", "FindPixel\FindPixel.vcxproj", "{BD26D3C3-A7DC-4DA3-B9AA-4D14C27A96E4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ranking", "Ranking\Ranking.vcxproj", "{4296F6B7-218E-4D6D-92EB-2D854036909B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -63,14 +61,6 @@ Global
 		{BD26D3C3-A7DC-4DA3-B9AA-4D14C27A96E4}.Release|x64.Build.0 = Release|x64
 		{BD26D3C3-A7DC-4DA3-B9AA-4D14C27A96E4}.Release|x86.ActiveCfg = Release|Win32
 		{BD26D3C3-A7DC-4DA3-B9AA-4D14C27A96E4}.Release|x86.Build.0 = Release|Win32
-		{4296F6B7-218E-4D6D-92EB-2D854036909B}.Debug|x64.ActiveCfg = Debug|x64
-		{4296F6B7-218E-4D6D-92EB-2D854036909B}.Debug|x64.Build.0 = Debug|x64
-		{4296F6B7-218E-4D6D-92EB-2D854036909B}.Debug|x86.ActiveCfg = Debug|Win32
-		{4296F6B7-218E-4D6D-92EB-2D854036909B}.Debug|x86.Build.0 = Debug|Win32
-		{4296F6B7-218E-4D6D-92EB-2D854036909B}.Release|x64.ActiveCfg = Release|x64
-		{4296F6B7-218E-4D6D-92EB-2D854036909B}.Release|x64.Build.0 = Release|x64
-		{4296F6B7-218E-4D6D-92EB-2D854036909B}.Release|x86.ActiveCfg = Release|Win32
-		{4296F6B7-218E-4D6D-92EB-2D854036909B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
