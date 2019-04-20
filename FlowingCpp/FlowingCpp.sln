@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ranking", "Ranking\Ranking.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Structure", "Structure\Structure.vcxproj", "{4FF19678-E145-4AE1-BD95-C1F93957BB25}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Complex", "Complex\Complex.vcxproj", "{C3EBE45A-E521-433E-AA15-0C34AA6C618E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{4FF19678-E145-4AE1-BD95-C1F93957BB25}.Release|x64.Build.0 = Release|x64
 		{4FF19678-E145-4AE1-BD95-C1F93957BB25}.Release|x86.ActiveCfg = Release|Win32
 		{4FF19678-E145-4AE1-BD95-C1F93957BB25}.Release|x86.Build.0 = Release|Win32
+		{C3EBE45A-E521-433E-AA15-0C34AA6C618E}.Debug|x64.ActiveCfg = Debug|x64
+		{C3EBE45A-E521-433E-AA15-0C34AA6C618E}.Debug|x64.Build.0 = Debug|x64
+		{C3EBE45A-E521-433E-AA15-0C34AA6C618E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3EBE45A-E521-433E-AA15-0C34AA6C618E}.Debug|x86.Build.0 = Debug|Win32
+		{C3EBE45A-E521-433E-AA15-0C34AA6C618E}.Release|x64.ActiveCfg = Release|x64
+		{C3EBE45A-E521-433E-AA15-0C34AA6C618E}.Release|x64.Build.0 = Release|x64
+		{C3EBE45A-E521-433E-AA15-0C34AA6C618E}.Release|x86.ActiveCfg = Release|Win32
+		{C3EBE45A-E521-433E-AA15-0C34AA6C618E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
