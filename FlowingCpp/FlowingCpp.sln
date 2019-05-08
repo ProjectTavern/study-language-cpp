@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Puzzle", "Puzzle\Puzzle.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer", "Pointer\Pointer.vcxproj", "{86E3AB51-2CDE-4867-A64A-44EE0450A997}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findMaxValue", "findMaxValue\findMaxValue.vcxproj", "{671FE333-8DAE-4B1E-B7C4-0157331D6D3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{86E3AB51-2CDE-4867-A64A-44EE0450A997}.Release|x64.Build.0 = Release|x64
 		{86E3AB51-2CDE-4867-A64A-44EE0450A997}.Release|x86.ActiveCfg = Release|Win32
 		{86E3AB51-2CDE-4867-A64A-44EE0450A997}.Release|x86.Build.0 = Release|Win32
+		{671FE333-8DAE-4B1E-B7C4-0157331D6D3C}.Debug|x64.ActiveCfg = Debug|x64
+		{671FE333-8DAE-4B1E-B7C4-0157331D6D3C}.Debug|x64.Build.0 = Debug|x64
+		{671FE333-8DAE-4B1E-B7C4-0157331D6D3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{671FE333-8DAE-4B1E-B7C4-0157331D6D3C}.Debug|x86.Build.0 = Debug|Win32
+		{671FE333-8DAE-4B1E-B7C4-0157331D6D3C}.Release|x64.ActiveCfg = Release|x64
+		{671FE333-8DAE-4B1E-B7C4-0157331D6D3C}.Release|x64.Build.0 = Release|x64
+		{671FE333-8DAE-4B1E-B7C4-0157331D6D3C}.Release|x86.ActiveCfg = Release|Win32
+		{671FE333-8DAE-4B1E-B7C4-0157331D6D3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
